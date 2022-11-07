@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Resume-Suwisa Yimyuan</title>
+    <meta content="I'm Suwisa Yimyuan and I'm seeking a position as a librarian intern to learn about library work. I would like to be one to bring to your institution an excellent work ethic, combined with an aim to apply information management, cataloging, and data analysis skills."
+      name="description">
+    <meta content="Suwisa Yimyuan, Resume, library, arts" name="keywords">
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+      rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- =======================================================
+  * Template Name: MyResume - v4.9.1  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
+    <meta name="author" content="Suwisa Yimyuan">
+  </head>
+  <body>
+    <!-- ======= Mobile nav toggle button ======= -->
+    <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
+    <header id="header" class="d-flex flex-column justify-content-center">
+      <nav id="navbar" class="navbar nav-menu">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"> <span>About</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"> <span>Resume</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"> <span>Portfolio</span></a></li>
+          <li><a href="#certificate" class="nav-link scrollto"> <span>Certificate</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"> <span>Contact</span></a></li>
+        </ul>
+      </nav>
+      <!-- .nav-menu --> </header>
+    <section id="hero" class="d-flex flex-column justify-content-center">
+      <div class="container" data-aos="zoom-in" data-aos-delay="100">
+        <h1>Suwisa Yimyuan</h1>
+        <p>I'm student of <span class="typed" data-typed-items="Silpakorn University"></span></p>
+        <div class="social-links"> </div>
+      </div>
+    </section>
+    <main id="main">
+      <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>About</h2>
+            <p></p>
+          </div>
+          <div class="row">
+            <div class="col-lg-4"> <img src="assets/img/profile-img.jpg" class="img-fluid rounded-pill"
+                alt="pictue of Suwisa Yimyuan, A female student, with long black hair, tilted her head 45 degrees and smiled slightly."
+                title="pictue of Suwisa Yimyuan, A female student, with long black hair, tilted her head 45 degrees and smiled slightly.">
+            </div>
+            <div class="col-lg-8 pt-4 pt-lg-0 content">
+              <h3>Suwisa Yimyuan</h3>
+              <p class="fst-italic">I'm a student in the faculty of arts at
+                Silpakorn University. <br>
+                I'm studying in major information and library science and minor
+                in Thai. </p>
+              <div class="row">
+                <div class="col-lg-6">
+                  <ul>
+                    <li> <strong>Birthday:</strong> <span>13 September 2001</span></li>
+                    <li> <strong>Phone:</strong> <span>+669 4414 1876</span></li>
+                    <li> <strong>City:</strong> <span>Nakhon Pathom</span></li>
+                  </ul>
+                </div>
+                <div class="col-lg-6">
+                  <ul>
+                    <li> <strong>Age:</strong> <span>21</span></li>
+                    <li> <strong>Degree:</strong> <span>studying for
+                        bachelor's degrees in 3rd year</span></li>
+                    <li> <strong>Email:</strong> <span>im.suwisa@gmail.com</span></li>
+                  </ul>
+                </div>
+              </div>
+              <p> </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End About Section -->
+      <!-- ======= Skills Section ======= -->
+      <section id="skills" class="skills section-bg bg">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Skills</h2>
+            <p></p>
+          </div>
+          <div class="row skills-content ">
+            <div class="col-lg-6">
+              <div class="progress"> <span class="skill">Microsoft
+                  Program(Word, Power Point)<i class="val"></i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress"> <span class="skill">ADOBE PHOTOSHOP <i class="val"></i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress"> <span class="skill">Web Design <i class="val"></i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="progress"> <span class="skill">Thai (Native) <i class="val"></i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress"> <span class="skill">English (Good) <i class="val"></i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+              <div class="progress "> <span class="skill">KOREAN (Elementary) <i
+                    class="val"></i></span>
+                <div class="progress-bar-wrap"> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Skills Section -->
+      <!-- ======= Resume Section ======= -->
+      <section id="resume" class="resume">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Resume</h2>
+            <p></p>
+          </div>
+          <div class="row">
+            <div class="col-lg-6">
+              <h3 class="resume-title">Sumary</h3>
+              <div class="resume-item pb-0">
+                <h4>Suwisa Yimyuan</h4>
+                <p><em>I'm seeking a position as a librarian intern to learn
+                    about library work. I would like to be one to bring to your
+                    institution an excellent work ethic, combined with an aim to
+                    apply information management, cataloging, and data analysis
+                    skills. I would like to be a part of this institute, develop
+                    the institution into a full-service for users and assist it
+                    to rise to the top of the rankings.</em></p>
+                <ul>
+                  <li>Kinnorn Dorm 26/5, Song Pol 5 Soi, Sanam Chan, Meung,
+                    Nakhon Pathom, 73000</li>
+                  <li>+669 4414 1876</li>
+                  <li>im.suwisa@gmail.com</li>
+                </ul>
+              </div>
+              <h3 class="resume-title">Education</h3>
+              <div class="resume-item">
+                <h4>SENIOR HIGH SCHOOL</h4>
+                <h5>2017 - 2019 </h5>
+                <p><em>Wat Rai Khing Witthaya School, Nakhon Pathom</em></p>
+                <p>English - Chinese Program <br>
+                  GPA: 3.91</p>
+              </div>
+              <div class="resume-item">
+                <h4>BACHELOR DEGREES</h4>
+                <h5>2020 - Present</h5>
+                <p><em>Silpakorn University, Nakhon Pathom</em></p>
+                <p>Faculty of Arts<br>
+                  Major Information and Library Science<br>
+                  Minor Thai</p>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <h3 class="resume-title">Experience</h3>
+              <div class="resume-item">
+                <h4>Student Council</h4>
+                <h5>2018 - 2019</h5>
+                <p><em>Wat Rai Khing Witthaya School, Nakhon Pathom</em></p>
+                <ul>
+                  <li>Be a student leader to develop the youth students in the
+                    school to have discipline. Have morals, ethics, love the
+                    country and the local area Adhering to the way of life and
+                    democracy.</li>
+                </ul>
+              </div>
+              <div class="resume-item">
+                <h4>VOLUNTEER PROJECT</h4>
+                <h5>2019</h5>
+                <p><em>Tha Nam Joan School, Kanchana Buri</em></p>
+                <ul>
+                  <li>Participated in volunteer camp activities to develop Ban
+                    Nam Joan School. Sharing Dreams for Younger Projects in
+                    collaboration with the Student Council of Wat Rai Khing
+                    Wittaya School, during 19 - 20 February 2019.</li>
+                </ul>
+              </div>
+              <div class="resume-item">
+                <h4>BOOK CATALOGING SCHOOL LIBRARY</h4>
+                <h5>2019</h5>
+                <p><em>Wat Rai Khing Witthaya School, Nakhon Pathom</em></p>
+                <ul>
+                  <li>Weed books, organize books, and offer services to users
+                    who are school personnel.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="portfolio" class="portfolio section-bg bg">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Portfolio</h2>
+            <p></p>
+          </div>
+          <div class="row">
+            <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up"
+              data-aos-delay="100"> </div>
+          </div>
+          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/port1.jpg" class="img-fluid"
+                  alt=" 10 students, 2 male students, and 8 female students, 6 sitting students, 4 standing students in front of the book display booth."
+                  title=" 10 students, 2 male students, and 8 female students, 6 sitting students, 4 standing students in front of the book display booth.">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div><img src="assets/img/portfolio/port2.jpg" class="img-fluid" alt="11 students, 4 male students, and 7 female students, dressed in cream-colored suits, standing in front of the Buddha statue."
+                  title="11 students, 4 male students, and 7 female students, dressed in cream-colored suits, standing in front of the Buddha statue.">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/port3.jpg" class="img-fluid"
+                  alt="Suwisa Yimyuan, a female student wearing a blue shirt, tied in a ponytail, stood among the early morning elementary school students."
+                  title="Suwisa Yimyuan, a female student wearing a blue shirt, tied in a ponytail, stood among the early morning elementary school students.">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div> <img src="assets/img/portfolio/port4.jpg" class="img-fluid"
+                  alt="4 people, 1 man wearing a blue shirt and blue pants, 2 women are wearing blue and yellow shirt wearing blue pants and two girls, all dancing."
+                  title="4 people, 1 man wearing a blue shirt and blue pants, 2 women are wearing blue and yellow shirt wearing blue pants and two girls, all dancing.">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div> <img src="assets/img/portfolio/port5.jpg" class="img-fluid"
+                  alt="Female students tied up in a ponytail, wearing blue shirts and blue trousers were painting purple on the wall."
+                  title="Female students tied up in a ponytail, wearing blue shirts and blue trousers were painting purple on the wall.">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/port6.jpg" class="img-fluid"
+                  alt="11 people, 4 girls in their teens, 6 girls aged 7-9, and 2 boys aged 7-9 stood in front of a welcome sign with smiling faces."
+                  title="11 people, 4 girls in their teens, 6 girls aged 7-9, and 2 boys aged 7-9 stood in front of a welcome sign with smiling faces.">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="certificate" class="portfolio section-bg">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Certificate</h2>
+            <p></p>
+          </div>
+          <div class="row">
+            <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up"
+              data-aos-delay="100">
+              <ul id="portfolio-flters">
+                <li data-filter="*" class="filter-active"><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/cer1.jpg" class="img-fluid"
+                  alt="Award-winning Christmas card contest honor certificate with a pattern of cartoon Santa Claus and a reindeer by Suwisa Yimyuan"
+                  title="Award-winning Christmas card contest honor certificate with a pattern of cartoon Santa Claus and a reindeer by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div> <img src="assets/img/portfolio/cer2.jpg" class="img-fluid"
+                  alt="Yellow certificate for participating in Children's Day activities of the Thai Wax Museum by Suwisa Yimyuan"
+                  title="Yellow certificate for participating in Children's Day activities of the Thai Wax Museum by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/cer3.jpg" class="img-fluid"
+                  alt="Certificate of Practical Training for the Youth Model Project by Suwisa Yimyuan"
+                  title="Certificate of Practical Training for the Youth Model Project by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div> <img src="assets/img/portfolio/cer4.jpg" class="img-fluid"
+                  alt="Certificate, silver medal, Handwriting competition by Suwisa Yimyuan "
+                  title="Certificate, silver medal, Handwriting competition by Suwisa Yimyuan. ">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div> <img src="assets/img/portfolio/cer5.jpg" class="img-fluid"
+                  alt="runner-up award certificate Chinese calligraphy competitio by Suwisa Yimyuan"
+                  title="runner-up award certificate Chinese calligraphy competition by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/cer6.jpg" class="img-fluid"
+                  alt="Award certificate for the winner of the Thai calligraphy competition by Suwisa Yimyuan"
+                  title="Award certificate for the winner of the Thai calligraphy competition by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/cer7.jpg" class="img-fluid"
+                  alt="Certificate of completion in 2019, with a pattern of green and red ribbon Christmas Activities by Suwisa Yimyuan"
+                  title="Certificate of completion in 2019, with a pattern of green and red ribbon Christmas Activities by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/cer8.jpg" class="img-fluid"
+                  alt="Award certificate for the runner-up of the dance competition cover dance by Suwisa Yimyuan"
+                  title="Award certificate for the runner-up of the dance competition cover dance by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div> <img src="assets/img/portfolio/cer9.jpg" class="img-fluid"
+                  alt="Certificate to participate in volunteer activities in The Sharing Dream project by Suwisa Yimyuan"
+                  title="Certificate to participate in volunteer activities in The Sharing Dream project by Suwisa Yimyuan">
+                <div class="portfolio-info">
+                  <div class="portfolio-links"> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Portflolio part ends -->
+      <section id="contact" class="contact bg">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+            <h2>Contact</h2>
+          </div>
+          <div class="row mt-1">
+            <div class="col-lg-4">
+              <div class="info">
+                <div class="address">
+                  <h4>Location:</h4>
+                  <p>Kinnorn Dorm 26/5, Song Pol 5 Soi, Sanam Chan, Meung,
+                    Nakhon Pathom, 73000</p>
+                </div>
+                <div class="email">
+                  <h4>Email:</h4>
+                  <p>im.suwisa@gmail.com</p>
+                </div>
+                <div class="phone">
+                  <h4>Call:</h4>
+                  <p>+669 4414 1876</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-8 mt-5 mt-lg-0">
+              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <div class="row">
+                  <div class="col-md-6 form-group"> <input name="name" class="form-control"
+                      id="name" placeholder="Your Name" required="" type="text">
+                  </div>
+                  <div class="col-md-6 form-group mt-3 mt-md-0"> <input class="form-control"
+                      name="email" id="email" placeholder="Your Email" required=""
+                      type="email"> </div>
+                </div>
+                <div class="form-group mt-3"> <input class="form-control" name="subject"
+                    id="subject" placeholder="Subject" required="" type="text">
+                </div>
+                <div class="form-group mt-3"> <textarea class="form-control" name="message"
+rows="5" placeholder="Message" required=""></textarea> </div>
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="sent-message">Your message has been sent. Thank
+                    you!</div>
+                </div>
+                <div class="text-center"><button type="submit">Send Message</button></div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer id="footer">
+        <div class="container">
+          <div class="row"><img src="assets/img/IMG_7440.jpg" class="img-fluid rounded-circle mx-auto"
+              alt="picture of Suwisa Yimyuan, a female student With long black hair, sat on a step with a white and gray pattern with an expressionless expression."
+              title="picture of Suwisa Yimyuan, a female student With long black hair, sat on a step with a white and gray pattern with an expressionless expression."
+              style="height: 152px; width: 172px;"></div>
+          <h3>Suwisa Yimyuan</h3>
+          <p>Thank you for viewing</p>
+          <div class="social-links"> </div>
+          <div class="copyright"> <strong><span></span></strong>. </div>
+          <div class="credits">
+            <!-- All the links in the footer should remain intact. -->
+            <!-- You can delete the links only if you purchased the pro version. -->
+            <!-- Licensing information: [license-url] -->
+            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
+          </div>
+        </div>
+      </footer>
+      <!-- End Footer -->
+      <!-- Vendor JS Files -->
+      <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+      <script src="assets/vendor/aos/aos.js"></script>
+      <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+      <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+      <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+      <script src="assets/vendor/typed.js/typed.min.js"></script>
+      <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+      <script src="assets/vendor/php-email-form/validate.js"></script>
+      <!-- Template Main JS File -->
+      <script src="assets/js/main.js"></script> </main>
+  </body>
+</html>
